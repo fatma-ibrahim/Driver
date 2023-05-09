@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="start_navigate">أبدأ الرحلة</string>
+    <string name="descripion_of_navigate">أبدأ الرحلة من نقطة البداية حتى منازل الأطفال ثم أتجه الى المدرسة</string>
+    <string name="navigate_back">أبدأ رحلة الرجوع من المدرسة حتى بيوت الأطفال ثم الرجوع لنقطة بدايتك الرحلة</string>
+    <string name="navigate_back_title">أبدأ رحلة الرجوع</string>
+    <string name="student_s_attendence">حضور الطلاب</string>
+    <string name="preview_children_that_will_go_school_today">الأطفال الذين سيذهبوا للمدرسة اليوم</string>
+    <string name="my_profile">صفحتي الشخصية</string>
+    <string name="your_profile">شاهد أو حدث بياناتك الشخصية</string>
+
+    <string name="check_point">نقطة البداية</string>
+    <string name="student_attendence">الحضور</string>
+    <string name="total_students">العدد الكلي</string>
+    <string name="school_code">كود المدرسة</string>
+    <string name="mobile">رقم الهاتف</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="license_number">رقم الرخصة</string>
+    <string name="save">حفظ</string>
+
+
+</resources>

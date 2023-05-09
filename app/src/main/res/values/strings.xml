@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Driver App</string>
+
+    <string name="access_token">pk.eyJ1IjoiaG9zc2Ftc2FkZWtrIiwiYSI6ImNrejEzbWxxdjA0djUybm12MTRpaDR3cXUifQ.h4GGusoE5rZ5kSLgrCwyTQ</string>
+    <string name="dash_views">Dashboadrd Views</string>
+    <string name="total_students">Total Students</string>
+    <string name="student_attendence">Attendence</string>
+    <string name="check_point">Start Point</string>
+    <string name="descripion_of_navigate">Start Navigate From Your Origin Location To Parents Location and then Go To School Location.</string>
+    <string name="navigate_back">Navigate Back And Take Children From School To Them Location\'s Home And Go Back To Your Origin Location</string>
+    <string name="parents_details">Parent\'s Details Like His Contacts And His Children.</string>
+    <string name="log_in">Log In</string>
+    <string name="get_started">Get Started</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="dont_have_an_account">Don\'t Have An Account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="password">Password</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="your_profile">Show or Update Your Profile.</string>
+    <string name="license_number">License Number</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="tracking_bus_system">tracking Bus System</string>
+    <string name="start_navigate">Start Navigate</string>
+    <string name="navigate_back_title">Navigate Back</string>
+    <string name="student_s_attendence">Student\'s Attendence</string>
+    <string name="preview_children_that_will_go_school_today">Preview Children That Will Go School Today.</string>
+    <string name="school_code">School Code</string>
+    <string name="mobile">Mobile</string>
+    <string name="save">Save</string>
+    <string name="school_name">School</string>
+</resources>
